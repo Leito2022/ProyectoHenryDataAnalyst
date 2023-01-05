@@ -9,5 +9,5 @@ decisiones.
 En este proyecto encontrarás un .ipynb con el EDA realizado y la justificación de la elección de los distintos datasets, esto irá generando un camino orientativo a lo que el 
 informe analítico pretende llegar. 
 
-Además encontrarás un archivo .bi donde encontraras un dashboard con los distintos kpis realizados.
+Además encontrarás un archivo .pbix donde encontraras un dashboard con los distintos kpis realizados y un análisis de datos en un pdf.
 
